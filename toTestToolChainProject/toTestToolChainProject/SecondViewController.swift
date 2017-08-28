@@ -7,8 +7,9 @@
 //
 
 import UIKit
+import CoreML
 
-class SecondViewController: UIViewController {
+class SecondViewController: UICollectionViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
